@@ -1,2 +1,2 @@
 # tslastockreplicate
-Creating a neural network to predict the growth of tesla stock in 2020
+Creating a neural network to Predict the Growth of Tesla Stock. 
